@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://youranxi3.github.io/yandexad/sitemap.xml
